@@ -1,0 +1,5 @@
+developer: Mukundi Lambani,
+appName: Ambani Africa,
+category: Best Education Solution,
+institution_Represented: IT varsity,
+year: 2021,
